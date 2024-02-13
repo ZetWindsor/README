@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emilio Lenglet</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate frontend developer from Italy and a Develhope student</h3>
 
-- 🔭 I’m currently working on **Team Project**
+- 🔭 I’m currently working on **Third Team Project**
+
+- 🌱 I’m currently learning **Frameworks**
+
+- 💬 Ask me about **my student experience**
 
 - 📫 How to reach me **lemigliot@gmail.com**
+
+- ⚡ Fun fact **My mind is a constantly shifting kaleidoscope of ideas—I'm always envisioning new projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
